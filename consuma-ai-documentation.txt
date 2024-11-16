@@ -1,0 +1,13 @@
+I have created a separate .txt file in addition to the .pdf file to test the code with different conversation transcripts. For now, the content of the .txt file is identical to the .pdf file.
+
+While executing the code, please ensure to update the file paths to match the local paths on your system.
+
+The necessary libraries and packages are included within the .ipynb code itself. I recommend running the code in a virtual environment to prevent potential conflicts with the existing dependencies on your system.
+
+This submission does not include all the bonus points yet, as I will be submitting an updated version that incorporates those enhancements.
+
+Note: I aimed for precision and perfection in this submission, which required additional time. Additionally, I encountered and resolved several dependency-related errors during implementation, which contributed to the delay.
+summarization_and_extraction.ipynb has the code for task 1 and 2.
+multi_agent.ipynb has the code for task 3.
+
+PS: Thank you for this opportunity, working on a genAI project like this taught me a lot :)
